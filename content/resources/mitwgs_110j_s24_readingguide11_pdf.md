@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/sexual-and-gender-identities-in-the-modern-united-states/mitwgs_110j_s24_readingguide11.pdf
+file: /ol-ocw-studio-app/courses/wgs-110j-sexual-and-gender-identities-in-the-modern-united-states-spring-2024/mitwgs_110j_s24_readingguide11.pdf
 file_size: 144469
 file_type: application/pdf
 image_metadata:
