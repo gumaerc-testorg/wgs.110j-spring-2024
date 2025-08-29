@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/sexual-and-gender-identities-in-the-modern-united-states/womens-rights-pioneers-statue-chp-image-source.jpg
+file: /ol-ocw-studio-app/courses/wgs-110j-sexual-and-gender-identities-in-the-modern-united-states-spring-2024/womens-rights-pioneers-statue-chp-image-source.jpg
 file_size: 6999099
 file_type: image/jpeg
 image_metadata:
