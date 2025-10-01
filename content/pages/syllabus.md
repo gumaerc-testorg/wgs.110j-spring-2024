@@ -81,11 +81,11 @@ Over the course of the semester we will discuss events and concepts that may be 
 
 *Cheating and Plagiarism*
 
-MIT has strict policies concerning plagiarism. In academic writing, it is considered plagiarism to use any idea or any language from someone else without adequately crediting that source. It doesn’t matter if the source is a published author, a website without clear authorship, a generative AI, or another student. Taking credit for work that is not one’s own is unacceptable in all academic situations, whether you do it intentionally or by accident. Many cases of plagiarism are not intentional, and instead arise out of confusion concerning what counts as plagiarism and how to avoid it. To protect yourself from accidentally becoming a plagiarist, and to learn more about what constitutes plagiarism, visit [Academic Integrity at MIT: A Handbook for Students](http://integrity.mit.edu/) or contact me directly.
+MIT has strict policies concerning plagiarism. In academic writing, it is considered plagiarism to use any idea or any language from someone else without adequately crediting that source. It doesn’t matter if the source is a published author, a website without clear authorship, a generative AI, or another student. Taking credit for work that is not one’s own is unacceptable in all academic situations, whether you do it intentionally or by accident. Many cases of plagiarism are not intentional, and instead arise out of confusion concerning what counts as plagiarism and how to avoid it. To protect yourself from accidentally becoming a plagiarist, and to learn more about what constitutes plagiarism, visit {{% resource_link "74d9b354-f636-4ef3-8048-503a46b3c78a" "Academic Integrity at MIT: A Handbook for Students" %}} or contact me directly.
 
 *Writing Assistance*
 
-The [Writing and Communication Center (WCC)](https://cmsw.mit.edu/writing-and-communication-center/) offers free professional advice from lecturers who are published writers and experienced teachers. The WCC offers help with all forms of academic, creative, and professional writing—including papers, applications, and theses. They also offer oral presentation assistance and help with English as Second Language questions. 
+The {{% resource_link "9e36eda6-5b11-4a9c-a369-391a6b002e54" "Writing and Communication Center (WCC)" %}} offers free professional advice from lecturers who are published writers and experienced teachers. The WCC offers help with all forms of academic, creative, and professional writing—including papers, applications, and theses. They also offer oral presentation assistance and help with English as Second Language questions. 
 
 ## Calendar
 
@@ -117,7 +117,7 @@ Week 8: Revolutions I: Civil Rights, the Pill, and the Emergence of Second Wave 
 
 Week 9: Revolutions II: Feminism as a Mass Movement and the Emergence of Gay Liberation
 
-- *In-class screening:* [*Screaming Queens: The Riot at Compton’s Cafeteria*](https://www.youtube.com/watch?v=G-WASW9dRBU)*.* Directed by Victor Silverman and Susan Stryker. Color and black-and-white, 2005. 56 min.
+- *In-class screening:* {{% resource_link "70b214c1-bb22-4176-8348-ab9d448d213e" "*Screaming Queens: The Riot at Compton’s Cafeteria*" %}}*.* Directed by Victor Silverman and Susan Stryker. Color and black-and-white, 2005. 56 min.
 
 ### Unit 5—Changing Tides: Gender and Sexuality as Battlegrounds, c. 1980–2000
 
